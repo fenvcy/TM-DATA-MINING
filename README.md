@@ -21,5 +21,5 @@ Sumber dataset:
 https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset
 
 ## Author
-Nama: (ISI NAMA KAMU)
-NIM: (ISI NIM)
+Nama: (muhammad faizal)
+NIM: (231510041)
